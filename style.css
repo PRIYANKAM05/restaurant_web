@@ -3,7 +3,7 @@ body h2{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
 }
 .pri{
-    background-image: url('../media/pexels-edward-eyer-2923034.jpg');
+    background-image: url('pexels-edward-eyer-2923034.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
